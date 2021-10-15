@@ -1,6 +1,7 @@
 **Project 3**
 
-The project was tested locally on my PC. - the noteboks should be working but i have not tested to completions ,Since trying out in colab was always timing out.
+The project was tested locally on my PC primarily.
+the noteboks have been also tested.
 
 
 
